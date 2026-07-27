@@ -25,4 +25,8 @@ int main(){
     }
     return 0;
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 81a9768 (bubble_sort)
